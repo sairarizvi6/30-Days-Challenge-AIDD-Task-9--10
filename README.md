@@ -8,7 +8,7 @@ This project delivers a complete multi-agent book generation system built using 
 
 It automates research,planning,writing,editing and formatting for professional book creation.
 
-✅ **<ins>Task-9 (**Custom Skills**Completed**)</ins>
+✅ **<ins>Task-9 (**Custom Skills Completed**)</ins>
 
 📌 Developed Skills
 
@@ -113,6 +113,7 @@ This multi-agent system can:
 •	✔ Professional documentation and repo structuring
 
 •	✔ Real-world multi-agent workflow design🚀
+
 
 
 
