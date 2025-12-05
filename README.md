@@ -14,15 +14,15 @@ It automates research,planning,writing,editing and formatting for professional b
 
 **Skill	Description**
 
-*Chapter Outline Generator	Produces structured,logical chapter outlines.
+Chapter Outline Generator	Produces structured,logical chapter outlines.
 
-*Character Development Assistant	Builds deep,multi-dimensional character profiles.
+Character Development Assistant	Builds deep,multi-dimensional character profiles.
 
-*Plot Consistency Checker	Ensures continuity and narrative coherence.
+Plot Consistency Checker	Ensures continuity and narrative coherence.
 
-*Research & Fact-Checking Tool	Validates information with credible referencing.
+Research & Fact-Checking Tool	Validates information with credible referencing.
 
-*Grammar & Style Enhancer	Improves tone, clarity, grammar, and writing style.
+Grammar & Style Enhancer	Improves tone, clarity, grammar, and writing style.
 
 🔧 **<ins>Implementation Highlights**</ins>
 
@@ -41,11 +41,15 @@ It automates research,planning,writing,editing and formatting for professional b
 🤖 **Agents Built**
 
 **Agent	Role**
-*Orchestrator Agent	Main controller,coordinates workflow between all agents.
-*Research Agent	Handles fact-checking,data gathering and references.
-*Writing Agent	Generates chapters using outlines + character data.
-*Editing Agent Enhances clarity,grammar,style and consistency.
-*Formatting Agent	Prepares final manuscript in professional format.
+Orchestrator Agent	Main controller,coordinates workflow between all agents.
+
+Research Agent	Handles fact-checking,data gathering and references.
+
+Writing Agent	Generates chapters using outlines + character data.
+
+Editing Agent Enhances clarity,grammar,style and consistency.
+
+Formatting Agent	Prepares final manuscript in professional format.
 
 🔄 **<ins>Workflow Architecture**</ins>
 
@@ -72,14 +76,23 @@ It automates research,planning,writing,editing and formatting for professional b
 │   ├── character development.md
 
 │   ├── plot consistency checker.md
+
 │   ├── research fact checking.md
+
 │   └── grammar style enhancer.md
+
 ├── agents/
+
 │   ├── orchestrator.md
+
 │   ├── research-agent.md
+
 │   ├── writing-agent.md
+
 │   ├── editing-agent.md
+
 │   └── formatting-agent.md
+
 └── config.json
 
 🚀 **<ins>System Capabilities**</ins>
@@ -113,6 +126,7 @@ This multi-agent system can:
 •	✔ Professional documentation and repo structuring
 
 •	✔ Real-world multi-agent workflow design🚀
+
 
 
 
