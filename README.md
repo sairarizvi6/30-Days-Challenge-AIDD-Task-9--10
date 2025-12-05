@@ -2,7 +2,7 @@
  
  📚 **AI-Powered Book Writing Automation System**
 
-*Task(9-&-Task10) **Completed Successfully**
+-Task(9-&-Task10) **Completed Successfully**
 
 This project delivers a complete multi-agent book generation system built using Claude Code skills and orchestrated sub-agents.
 
@@ -113,5 +113,6 @@ This multi-agent system can:
 •	✔ Professional documentation and repo structuring
 
 •	✔ Real-world multi-agent workflow design🚀
+
 
 
